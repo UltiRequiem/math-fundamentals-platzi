@@ -3,5 +3,5 @@ function root(number, root) {
 }
 
 const myNumber = 4 ** 2; // 16
-const test = root(myNumber, 4);
+const test = root(myNumber, 4); //2
 console.log(test);
