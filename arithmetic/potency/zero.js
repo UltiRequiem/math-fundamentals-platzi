@@ -6,4 +6,4 @@ console.log(testProperty);
 console.log(testPropertyTwo);
 
 // wow
-console.log(0 ** 0) // 0 * 0 = 1 ?
+console.log(0 ** 0); // 0 * 0 = 1 ?
